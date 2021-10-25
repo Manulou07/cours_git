@@ -2,3 +2,4 @@ version proposition test 2
 version proposition test 3
 code super complique
 code ecrit sur github
+code ecrit sur vsc
